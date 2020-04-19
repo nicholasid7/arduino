@@ -1,5 +1,5 @@
 /*********
-  EGR with Wi-Fi and  time
+  EGR with Wi-Fi and time indication
 *********/
 
 // подключаем библиотеку «ESP8266WiFi»:
